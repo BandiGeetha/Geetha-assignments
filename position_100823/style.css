@@ -1,0 +1,50 @@
+/*div{
+    font-family: 'Roboto', sans-serif;
+    color:blue ;
+    text-align: center!important;
+    height: 150px;
+    width: 150px;
+}
+.relative{
+    background-color: brown;
+    position: relative;
+    left: 100px;
+    top: 150px
+}
+.absolute{
+    background-color: blueviolet;
+    position: absolute;
+}*/
+/*body {
+    background-color: aqua;
+}*/
+body {
+    background-color: green;
+    position: absolute;
+    
+}
+
+.one{
+    background-color: aliceblue;
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    top: 10px;
+    left: 10px;
+}
+.two{
+    background-color: blueviolet;
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    top: 170px;
+    left:170px;
+}
+.three{
+    background-color: brown;
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    top: 330px;
+    left: 330px;
+}
